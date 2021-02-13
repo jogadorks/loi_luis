@@ -47,7 +47,7 @@ cr = '*✔️ESTE BOT ESTÁ VERIFICADO✔️*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["556984423608@s.whatsapp.net] 
+const ownerNumber = ["556984423608@s.whatsapp.net"] 
 /************************************/
 
        
