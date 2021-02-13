@@ -172,8 +172,6 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣━━⊱  *NSFW MENU*  ⊰━┫
 ┣⊱ *${prefix}anjing*
 ┣⊱ *${prefix}blowjob*
-┣⊱ *${prefix}loli
-┣⊱ *${prefix}waifu
 ┣⊱ *${prefix}nekonime*
 ┣⊱ *${prefix}pokemon*
 ┣⊱ *${prefix}husbu*
@@ -220,8 +218,8 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *${prefix}event* [1/0]
 ┣⊱ *${prefix}clone* <tag>
 ┣⊱ *${prefix}setppbot*
-┣━━⊱*obrigado por usar o ksbot*⊰━━┫
-┃
+┣━━⊱*agradecimentos*⊰━━┫
+┣⊱ks wa.me/5569984423608
 ┃
 ┗━━⊱  ⸨ *Otakubot* ⸩  ⊰━━━━┛
 `
