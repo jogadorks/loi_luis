@@ -23,7 +23,7 @@ exports.lvlnoon = () => {
 }
 
 exports.noregis = () => {
-	return`*「 NÃO REGISTRADO 」*\n\n*Como registrar ${prefix}daftar nome|idade* \n*exemplo ${prefix}daftar KSbot|17*`
+	return`*「 NÃO REGISTRADO 」*\n\n*Como registrar ${prefix}daftar nome|idade* \n*exemplo ${prefix}daftar Otaku|17*`
 }
 
 exports.rediregis = () => {
@@ -120,8 +120,8 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 	┣⊱NOVINHO E ATUALIZADO
 	┗━━━━❉ ❉━━━━━━┛
 	┏━━❉ ❉━━━┓		
-	┣⊱KSBOT
-	┣⊱v5.0      
+	┣⊱Otakubot
+	┣⊱v2.0      
 	┗━━❉ ❉━━━┛
 ┏━━━⊱  *SOBRE O USUÁRIO*  ⊰━━┓
 ┣⊱ *Nome* : ${pushname}
@@ -132,7 +132,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *Level* : ${getLevelingLevel(sender)}
 ┣⊱ *Função* : ${role}
 ┣⊱ *Registro do usuário* : ${_registered.length}
-┗━━━⊱  ⸨ *KSBOT* ⸩  ⊰━━━━┛
+┗━━━⊱  ⸨ *Otakubot* ⸩  ⊰━━━━┛
 
  *${prefix}info*
  *${prefix}owner*
@@ -220,10 +220,10 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *${prefix}event* [1/0]
 ┣⊱ *${prefix}clone* <tag>
 ┣⊱ *${prefix}setppbot*
-┣━━⊱ *obrigado por usar o ksbot* ⊰━━┫
+┣━━⊱*obrigado por usar o ksbot*⊰━━┫
 ┃
 ┃
-┗━━⊱  ⸨ *KSBOT* ⸩  ⊰━━━━┛
+┗━━⊱  ⸨ *Otakubot* ⸩  ⊰━━━━┛
 `
 }
 
