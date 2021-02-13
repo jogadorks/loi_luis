@@ -130,7 +130,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *O teu dinheiro* : R$${uangku}
 ┣⊱ *XP* : ${getLevelingXp(sender)}/${reqXp} 
 ┣⊱ *Level* : ${getLevelingLevel(sender)}
-┣⊱ *Função* : ${role}
+┣⊱ *rank* : ${role}
 ┣⊱ *Registro do usuário* : ${_registered.length}
 ┗━━━⊱  ⸨ *Otakubot* ⸩  ⊰━━━━┛
 
@@ -220,7 +220,6 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *${prefix}setppbot*
 ┣━━⊱*agradecimentos*⊰━━┫
 ┣⊱ks wa.me/5569984423608
-┃
 ┗━━⊱  ⸨ *Otakubot* ⸩  ⊰━━━━┛
 `
 }
