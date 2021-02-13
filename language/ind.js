@@ -117,11 +117,11 @@ exports.reglevelahf = (command, pushname, getLevelingLevel, sender, ahf) => {
 exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp, _registered, uangku, role, premi) => { 
 	return `
 	┏━━━━❉ ❉━━━━━━┓
-	┣⊱NOVINHO E ATUALIZADO
+	┣⊱novo bot
 	┗━━━━❉ ❉━━━━━━┛
 	┏━━❉ ❉━━━┓		
-	┣⊱Otakubot
-	┣⊱v2.0      
+	┣⊱Loi_luis
+	┣⊱v1.0      
 	┗━━❉ ❉━━━┛
 ┏━━━⊱  *SOBRE O USUÁRIO*  ⊰━━┓
 ┣⊱ *Nome* : ${pushname}
@@ -132,7 +132,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *Level* : ${getLevelingLevel(sender)}
 ┣⊱ *rank* : ${role}
 ┣⊱ *Registro do usuário* : ${_registered.length}
-┗━━━⊱  ⸨ *Otakubot* ⸩  ⊰━━━━┛
+┗━━━⊱  ⸨ *Loi_luis* ⸩  ⊰━━━━┛
 
  *${prefix}owner*
 
@@ -219,7 +219,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *${prefix}setppbot*
 ┣━━⊱*agradecimentos*⊰━━┫
 ┣⊱ks wa.me/5569984423608
-┗━━⊱  ⸨ *Otakubot* ⸩  ⊰━━━━┛
+┗━━⊱  ⸨ *Loi_luis* ⸩  ⊰━━━━┛
 `
 }
 
