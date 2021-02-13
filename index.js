@@ -37,7 +37,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:5.0\n' 
             + 'FN:KS Admin\n' 
             + 'ORG: Desenvolvedor KSBOT;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=556984423608:+55 69 8442-3608\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=553898561808:+55 38 9856-1808\n' 
             + 'END:VCARD' 
 blocked = []   
 prefix = '?'
@@ -47,7 +47,7 @@ cr = '*✔️ESTE BOT ESTÁ VERIFICADO✔️*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["556984423608@s.whatsapp.net"] 
+const ownerNumber = ["553898561808@s.whatsapp.net"] 
 /************************************/
 
        
