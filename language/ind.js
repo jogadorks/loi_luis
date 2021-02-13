@@ -134,7 +134,6 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *Registro do usuário* : ${_registered.length}
 ┗━━━⊱  ⸨ *Otakubot* ⸩  ⊰━━━━┛
 
- *${prefix}info*
  *${prefix}owner*
 
 ┏━━⊱ *comandos basicos* ⊰━━┓
